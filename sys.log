@@ -1,0 +1,5 @@
+ERROR:root:Error message
+WARNING:root:You have a warning.
+ERROR:root:Error message
+WARNING:root:You have a warning.
+CRITICAL:root:Hello World
