@@ -1,5 +1,8 @@
-ERROR:root:Error message
 WARNING:root:You have a warning.
 ERROR:root:Error message
+CRITICAL:root:Hello World
+DEBUG:root:debug message
+INFO:root:info message
 WARNING:root:You have a warning.
+ERROR:root:Error message
 CRITICAL:root:Hello World

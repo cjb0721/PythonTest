@@ -1,0 +1,32 @@
+loginregist-10-30-2019-04-08 10:42:36,711-debug message
+loginregist-20-31-2019-04-08 10:42:36,711-info message
+loginregist-30-32-2019-04-08 10:42:36,711-You have a warning.
+loginregist-40-33-2019-04-08 10:42:36,711-Error message
+loginregist-10-34-2019-04-08 11:01:04,622-debug message
+loginregist-20-35-2019-04-08 11:01:04,635-info message
+loginregist-30-36-2019-04-08 11:01:04,635-You have a warning.
+loginregist-40-37-2019-04-08 11:01:04,635-Error message
+loginregist-10-34-2019-04-08 11:14:15,921-debug message
+loginregist-20-35-2019-04-08 11:14:15,943-info message
+loginregist-30-36-2019-04-08 11:14:15,943-You have a warning.
+loginregist-40-37-2019-04-08 11:14:15,944-Error message
+loginregist-10-34-2019-04-08 11:14:24,853-debug message
+loginregist-20-35-2019-04-08 11:14:24,854-info message
+loginregist-30-36-2019-04-08 11:14:24,854-You have a warning.
+loginregist-40-37-2019-04-08 11:14:24,854-Error message
+loginregist-10-37-2019-04-08 11:18:01,309-debug message
+loginregist-20-38-2019-04-08 11:18:01,310-info message
+loginregist-30-39-2019-04-08 11:18:01,310-You have a warning.
+loginregist-40-40-2019-04-08 11:18:01,310-Error message
+loginregist-10-37-2019-04-08 11:19:24,895-debug message
+loginregist-20-38-2019-04-08 11:19:24,895-info message
+loginregist-30-39-2019-04-08 11:19:24,895-You have a warning.
+loginregist-40-40-2019-04-08 11:19:24,895-Error message
+loginregist-10-37-2019-04-08 11:19:51,413-debug message
+loginregist-20-38-2019-04-08 11:19:51,413-info message
+loginregist-30-39-2019-04-08 11:19:51,414-You have a warning.
+loginregist-40-40-2019-04-08 11:19:51,414-Error message
+loginregist-10-37-2019-04-08 11:19:59,163-debug message
+loginregist-20-38-2019-04-08 11:19:59,163-info message
+loginregist-30-39-2019-04-08 11:19:59,163-You have a warning.
+loginregist-40-40-2019-04-08 11:19:59,163-Error message
